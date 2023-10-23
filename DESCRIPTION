@@ -1,11 +1,10 @@
 Package: kaylaor
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Creates Odds Ratio and 95 Percent Confidence Interval
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Kayla Esser
+Maintainer: Kayla Esser <kayla.esser@mail.utoronto.ca>
+Description: This function calculates the odds ratio and 95 percent confidence interval for a coefficient and standard error from a logistic regression
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
